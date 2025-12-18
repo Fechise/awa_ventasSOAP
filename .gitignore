@@ -1,0 +1,32 @@
+# Build outputs
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+# User-specific
+*.user
+*.suo
+*.userprefs
+*.rsuser
+
+# VS / VS Code
+.vs/
+.vscode/
+.github/
+
+# Packages / tooling
+packages/
+*.nupkg
+*.snupkg
+
+# Publish artifacts
+*.PublishSettings
+**/Properties/launchSettings.json
+
+# Temp
+*.tmp
+*.temp
+*.DS_Store
+Thumbs.db
